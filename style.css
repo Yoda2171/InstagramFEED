@@ -1,0 +1,51 @@
+body{
+    background: black;
+    font-family: 'Open Sans', sans-serif;
+}
+.post{
+    background: white;
+    width: 600px;
+    margin: auto;
+}
+img{
+    width: 100%
+}
+.header-post{
+    display: flex;
+    padding: 5px;
+    
+}
+.header-post p{
+    margin: 0;
+    
+}
+.ellipsis { 
+    text-align: right;
+    display: inline-block;     
+    padding: 10px;
+    width: 100%;
+    font-size: 30px;
+}
+.html5 {
+    font-size: 40px;
+    display: inline-block;  
+    padding: 10px; 
+}
+.header-strong {
+    display: flex;
+    flex-direction: column; 
+    padding: 10px;
+    
+}
+.footer-post1{
+    font-size: 30px;
+    padding: 10px;
+    margin: 0;
+}
+.fa-bookmark {
+    float: right;
+
+}
+.footer-post2{
+    padding: 15px;
+}
